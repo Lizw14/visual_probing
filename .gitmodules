@@ -1,3 +1,21 @@
 [submodule "OFA"]
 	path = OFA
 	url = https://github.com/Lizw14/OFA.git
+[submodule "CLIP"]
+	path = CLIP
+	url = https://github.com/Lizw14/CLIP.git
+[submodule "mae"]
+	path = mae
+	url = https://github.com/Lizw14/mae.git
+[submodule "vlp_probe"]
+	path = vlp_probe
+	url = https://github.com/Lizw14/vlp_probe.git
+[submodule "segmenter"]
+	path = segmenter
+	url = https://github.com/Lizw14/segmenter.git
+[submodule "detectron2"]
+	path = detectron2
+	url = https://github.com/Lizw14/detectron2.git
+[submodule "moco-v3"]
+	path = moco-v3
+	url = https://github.com/Lizw14/moco-v3.git
